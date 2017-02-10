@@ -1,0 +1,13 @@
+.olympic{
+    background-color: brown;
+}
+
+.bold{
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.main{
+    text-align: center;
+}
